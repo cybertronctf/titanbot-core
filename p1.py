@@ -1,1 +1,1 @@
-print("titanbot-core UPDATE")
+print("titanbot-core FIX")
