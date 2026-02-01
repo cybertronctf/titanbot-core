@@ -1,1 +1,1 @@
-print("titanbot-core INSERT")
+print("titanbot-core UPDATE")
